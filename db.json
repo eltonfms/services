@@ -1,0 +1,124 @@
+{
+  "logo-customers": [
+    {
+      "id": "d907ec05-4da7-48e3-8e52-2adad2e18b19",
+      "name": "waveless",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12ec2e784a616bfbf43fd_WavelessLight.svg"
+    },
+    {
+      "id": "7c15c6b2-871c-485c-96c0-0ccb0777a6e1",
+      "name": "volume",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12ebafce2ed3320b8cf57_VolumeLight.svg"
+    },
+    {
+      "id": "ca5d8136-8e7c-455a-9dc0-6c12ea604578",
+      "name": "vision",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12eb349c7e0b925889736_VisionLight.svg"
+    },
+    {
+      "id": "f681ee8b-c2ac-4e61-b3e2-b09cfba3747f",
+      "name": "umbrella",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12eab1ccbbb76a7f113a9_UmbrellaLight-1.svg"
+    },
+    {
+      "id": "e9f1f49c-cdd7-4a27-b259-e544954e229d",
+      "name": "vertigo",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12ea2e272feddb9da574d_VertigoLight.svg"
+    },
+    {
+      "id": "943cafc2-6b9a-4972-b29f-3e07720ae430",
+      "name": "u-turn",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e9a17a7707ff5b10ae3_U-TurnLight.svg"
+    },
+    {
+      "id": "126224f1-a27f-4448-b92d-fcf350a22604",
+      "name": "terra",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e891fa22f89efd7477a_TerraLight.svg"
+    },
+    {
+      "id": "3b60d921-43c8-4193-92f3-8c3958d926f3",
+      "name": "trace",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f17138aa139e6f48915a3d_Trace-Light.svg"
+    },
+    {
+      "id": "0456f855-b768-469f-80c8-8306ada2c6bc",
+      "name": "snowflake",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e80f229af9c06a7a7d8_SnowflakeLight.svg"
+    },
+    {
+      "id": "9893a870-5136-417f-a0d1-1cda4d37059c",
+      "name": "snapshot",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e78784f08aff7fe2758_SnapShotLight.svg"
+    },
+    {
+      "id": "1a3fa917-2330-474a-8bca-417b9aae964a",
+      "name": "sitemark",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e6faf7356420e154daf_SitemarkLight.svg"
+    },
+    {
+      "id": "05ddb24f-3154-40a0-961f-ffa4fe61639f",
+      "name": "scale",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e67e272fe561ada2c7e_ScaleLight-1.svg"
+    },
+    {
+      "id": "653fb152-9859-4c32-8cee-75c9e267ff74",
+      "name": "robotx",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e601ccbbb70ddf0a395_RobotXLight.svg"
+    },
+    {
+      "id": "25b71720-6f7b-415f-9033-3180615d252b",
+      "name": "rise",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e582df47d3143998ed3_RiseLight.svg"
+    },
+    {
+      "id": "0addfa49-6cf8-49c9-8714-00f9e7cf4e15",
+      "name": "recharge",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f17110bf4f572d9c6b12cc_Recharge-Light.svg"
+    },
+    {
+      "id": "c043e9b5-d02d-4898-a059-3f5396ec4dfe",
+      "name": "pronature",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e4ac7ae677a329b9ed3_ProNatureLight.svg"
+    },
+    {
+      "id": "80aec4f1-89bd-4871-8912-ef583e67cf95",
+      "name": "proline",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e417a5df96cb442429a_ProLineLight.svg"
+    },
+    {
+      "id": "4cef2fc1-edcf-49d4-add1-7c23a614865f",
+      "name": "product",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e3a57bdb3c59ebf9ceb_Product_Light.svg"
+    },
+    {
+      "id": "c61b1fa2-1388-4fc9-89f2-711fc3f17902",
+      "name": "pinpoint",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e321b3fc650c8701fd2_PinpointLight.svg"
+    },
+    {
+      "id": "00219a09-c10e-44d3-96da-29db9ffc24e7",
+      "name": "penta",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e29e272fe1dc4da123c_PentaLight.svg"
+    },
+    {
+      "id": "71f07496-dc8b-4343-8350-d2f3fb1b9ea6",
+      "name": "nextmove",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e22f229af7a57a76237_NextmoveLight.svg"
+    },
+    {
+      "id": "6f304606-62eb-493b-8928-7536b51233eb",
+      "name": "orbitc",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e1a2123d655879286da_OrbitcLight.svg"
+    },
+    {
+      "id": "2ad4706d-b83f-4ea0-85a9-343743ec5c76",
+      "name": "network",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e121ccbbb6258f0355a_NetworkLight.svg"
+    },
+    {
+      "id": "78a164e2-d569-4cb8-8df6-21f753280d3b",
+      "name": "mindfulness",
+      "logo": "https://assets.website-files.com/61ed56ae9da9fd7e0ef0a967/61f12e0af229af3de2a75085_MindfulnessLight.svg"
+    }
+  ]
+}
